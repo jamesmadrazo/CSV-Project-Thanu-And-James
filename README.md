@@ -1,4 +1,4 @@
-# ProjectThanuANDJames
+# CSV ProjectThanuANDJames
 Sprint 1: 1 hour Objective: Create employee table/object (James),
 Created getters for each variable(Thanu) Review: Completed objectives
 Reflections: Hour sprints were too long, shorten to 45 mins
